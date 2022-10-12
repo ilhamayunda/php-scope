@@ -1,0 +1,3 @@
+<?php 
+Index.Home = Example
+?>
